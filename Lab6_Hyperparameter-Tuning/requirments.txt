@@ -1,0 +1,8 @@
+torch==2.0.1  # or the latest version
+torchvision==0.15.2  # or the latest version
+numpy==1.24.2
+matplotlib==3.7.1
+tqdm==4.65.0
+opencv-python==4.7.0.68
+scikit-image==0.20.0
+scikit-learn==1.3.0
